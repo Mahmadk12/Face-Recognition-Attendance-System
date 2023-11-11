@@ -38,13 +38,13 @@
 }
 
 .custom-navbar .btn {
-    background-color: #6c3483; /* Balck */
+    background-color: #000000; /* Balck */
     color: white; /* Button text color */
     border: none;
 }
 
 .custom-navbar .btn:hover {
-    background-color: #5b2a6e; /* Dark purple background on hover */
+    background-color: #000000; /* Black */
 }
 
 /* Additional CSS to clear floats */
